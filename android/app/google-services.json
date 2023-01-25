@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949670129431",
+    "project_id": "checkflutter-f2558",
+    "storage_bucket": "checkflutter-f2558.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949670129431:android:f58475321630161b645152",
+        "android_client_info": {
+          "package_name": "com.example.fruit_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949670129431-mhqbaviavbfqhon105ajhn4901ke69b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiu1lmOJvlVPSHO4KOS01aInp4I8ZMMT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949670129431-mhqbaviavbfqhon105ajhn4901ke69b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
